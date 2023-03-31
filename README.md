@@ -12,7 +12,7 @@ CycleGAN is unique in that it uses a cycle-consistency loss term that helps to e
 The code includes the following parts:
 1. Load Library
 2. Loading Image data
-3. Preprocessing the image data
+3.Exploratory Data Analysis/Preprocessing the image data
 4. Create Model
   4.1 Create Generator
   4.2 Create discriminator
@@ -21,3 +21,4 @@ The code includes the following parts:
 6. Generate sample Monet Image
 7. Generate submission zip file for images
 Output Model
+Conclusion
